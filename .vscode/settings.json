@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./venv-pyth-wind-rdp/Lib/site-packages/win32",
+        "./venv-pyth-wind-rdp/Lib/site-packages/win32/lib",
+        "./venv-pyth-wind-rdp/Lib/site-packages/pywin32_system32"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.languageServer": "Pylance"
+}
